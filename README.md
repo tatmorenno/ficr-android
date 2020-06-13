@@ -6,7 +6,7 @@ AgeApp
 
 <h1>
 
-<img src="https://ik.imagekit.io/tatmorenno/ageapp2_TD1-oufBu.gif">
+<img src="https://github.com/tatmorenno/FICR_ATV-01-Android/blob/master/app/ageapp2.gif">
 
 </h1>
 
