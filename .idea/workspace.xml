@@ -9,9 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c09ba16-99fa-49eb-ba93-f214bd6e57ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ageapp1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ageapp1.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ageapp2.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +142,10 @@
     </state>
     <state x="1768" y="9" key="#app/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592013994095" />
     <state x="402" y="9" key="#app/0.0.1366.728@0.0.1366.728" timestamp="1592054864660" />
+    <state x="434" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592083586489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592083586489" />
     <state x="1829" y="119" key="FileChooserDialogImpl" timestamp="1592019455876">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
@@ -156,10 +162,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="100" width="1166" height="512" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1592056074818" />
-    <state x="1745" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592013981561">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592084166612">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1745" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1592013981561" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591977561785" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592084166612" />
   </component>
 </project>
