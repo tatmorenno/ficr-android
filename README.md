@@ -6,21 +6,21 @@ AgeApp
 
 <h1>
 
-<img src="ageapp2.gif">
+<img src="https://ik.imagekit.io/tatmorenno/ageapp2_TD1-oufBu.gif">
 
 </h1>
 
-# 📲 SOBRE
+# 📲   SOBRE
 
 O **AgeApp** é um simples app Android que calcula a idade com base no ano de nascimento informado pelo usuário. 
 
-## 💻 Tecnologia utilizada
+## 💻   Tecnologia utilizada
 
 - [Kotlin](https://kotlinlang.org/)
 
 ---
 
-## 🤔 Como baixar o projeto?
+## 🤔   Como baixar o projeto?
 
 ```bash
 # Clonar o repositório
@@ -28,4 +28,4 @@ $ git clone https://github.com/tatmorenno/FICR_ATV-01-Android.git
 
 ```
 
-Desenvolvido 🤩 por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/)
+Desenvolvido 🤩   por [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/)
