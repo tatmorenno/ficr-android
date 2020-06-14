@@ -6,7 +6,7 @@ AgeApp
 
 <h1>
 
-<img src="https://github.com/tatmorenno/FICR_ATV-01-Android/blob/master/app/ageapp2.gif" width="350" height="700" align="center"/>
+<img src="https://github.com/tatmorenno/FICR_ATV-01-Android/blob/master/app/ageapp2.gif" align="center" width="300" height="600"/>
 
 </h1>
 
