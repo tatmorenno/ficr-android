@@ -1,14 +1,14 @@
 <h1 align="center">
 AgeApp
+  
+  ---
+  
+  <img src="https://github.com/tatmorenno/FICR_ATV-01-Android/blob/master/app/ageapp2.gif" align="center" width="300" height="600"/>
+  
 </h1>
 
 <br/>
 
-<h1>
-
-<img src="https://github.com/tatmorenno/FICR_ATV-01-Android/blob/master/app/ageapp2.gif" align="center" width="300" height="600"/>
-
-</h1>
 
 # SOBRE 📲
 
