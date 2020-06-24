@@ -10,17 +10,17 @@ AgeApp
 <br/>
 
 
-# SOBRE 📲
+# 📲 SOBRE 
 
 O **AgeApp** é um simples app Android que calcula a idade com base no ano de nascimento informado pelo usuário. 
 
-## Tecnologia utilizada 💻
+## 💻 Tecnologia utilizada
 
 - [Kotlin](https://kotlinlang.org/)
 
 ---
 
-## Como baixar o projeto? 🤔
+## 🤔 Como baixar o projeto? 
 
 ```bash
 # Clonar o repositório
