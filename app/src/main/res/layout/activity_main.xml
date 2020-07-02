@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -11,42 +12,35 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
         android:text="Digite o ano de nascimento:"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#5BE8D1"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.347"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.119" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-    <EditText
+    <!-- MaskedEditText vindo da biblioteca que foi implementada la no Gradle, no atributo
+    app:mask uma "template" de como deve ser a data -->
+    <com.vicmikhailau.maskededittext.MaskedEditText
         android:id="@+id/inputAno"
-        android:layout_width="159dp"
-        android:layout_height="57dp"
-        android:layout_marginTop="40dp"
-        android:autoText="false"
-        android:ems="10"
-        android:inputType="phone"
-        android:phoneNumber="true"
-        android:selectAllOnFocus="false"
-        android:singleLine="true"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
         android:textColor="#ffffff"
         android:textSize="24sp"
-        android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@id/textView"
+        app:mask="##/##/####" />
 
     <Button
         android:id="@+id/btnEnviar"
         android:layout_width="215dp"
         android:layout_height="60dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/custom_button"
-        android:onClick="onSubmit"
         android:text="Calcular"
         android:textAlignment="center"
         android:textAllCaps="false"
